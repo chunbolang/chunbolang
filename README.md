@@ -1,4 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chunbolang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chunbolang&show_icons=true&theme=graywhite&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=chunbolang.chunbolang)
 
 <!--
 **chunbolang/chunbolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
