@@ -1,6 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,%20I%27m%20Chunbo!~%F0%9F%98%89&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chunbolang&show_icons=true&theme=graywhite&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=chunbolang.chunbolang)
+
+
+
+
 
 <!--
 **chunbolang/chunbolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
